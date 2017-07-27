@@ -1,0 +1,80 @@
+layout_spectrum: 0.7014594437964813
+typography_spectrum: 0.7971140712283847
+color:
+  lightness: 0.8067817084883147
+  brandColors:
+    - '#332532'
+    - '#644D52'
+    - '#F77A52'
+    - '#FF974F'
+    - '#A49A87'
+  saturation: 0.9096519569898633
+  brandStrength: 0.1525897250616794
+  rhythmicContrast: 0.5721529351729936
+name: Opus Icon | an advisory group |
+analytics: {}
+purpose:
+  - type: email
+    url: 'mailto:hello@opusicon.com'
+    label: Ask for a DEMO
+description: >-
+  "focus" isn’t a product to be created; it’s the state of existence that's
+  revealed when the unimportant is blurred  …  ~ OPUS ICON
+author:
+  name: Shaun Nelson
+  email: shaun@opusicon.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2d36935-6c23-4789-8036-7ea1ccbebfe3.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2d36935-6c23-4789-8036-7ea1ccbebfe3.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - name: who we are
+    id: 0a1fc343-7a16-4ab1-9e8c-f7bd02c73afb
+    type: content
+  - name: what we do
+    id: b3bb63b8-9e2c-4f75-abf0-cf57612cc240
+    type: content
+  - name: how we do it
+    id: fd9aa9c3-4fc5-43b2-8434-cd56052ae317
+    type: content
+content_rating:
+  adult: false
+opengraph: {}
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeb8d994-155f-4092-a010-b4298a472ac3.png
+title: 'lacking clarity, precision and accuracy is clouded and cumbersome ...'
+url: 'http://opusicon.com'
+github: true
