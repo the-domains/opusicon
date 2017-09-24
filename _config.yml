@@ -70,7 +70,6 @@ content:
         put them together in a handy Rolodex The videos listed are all found on
         YouTube (you'll find potentially thousands more if you search 'video
         loop', 'motion background' etc.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=2bUj-RtbqyI&feature=applinks'
