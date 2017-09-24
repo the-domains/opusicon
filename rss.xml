@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[the art of the deal]]></title>
+        <description><![CDATA[the art of the deal]]></description>
+        <link>http://opusicon.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Sep 2017 08:34:57 GMT</lastBuildDate>
+        <atom:link href="http://opusicon.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 24 Sep 2017 08:34:56 GMT</pubDate>
+        <item>
+            <title><![CDATA[Solving the last mile on the road to IT agility]]></title>
+            <description><![CDATA[<h1>Solving the last mile on the road to IT agility</h1>,<h2>The last mile is IT</h2>,<p>A while ago our team got in a discussion about choosing Kanban or Scrum. We even had a meeting about considering a new method. At the end of that meeting we had come to 2 decisions.</p>,<ol><li>That switching from Scrum to Kan-ban wouldn’t address the core challenges of being more agile and pivoting as fast as the business wanted.</li><li>The root cause limiting TechOps and DevOps ability to pivot when needed is we were in the unfortunate position of making trade-off decisions on behalf of our primary stake holders. This took, not only time, but</li></ol>]]></description>
+            <link>http://opusicon.com/solving-the-last-mile-on-the-road-to-it-agility/index.html</link>
+            <guid isPermaLink="false">ca6c32b2-4eab-409d-9131-d2bea197c0f0</guid>
+            <pubDate>Sun, 09 Jul 2017 20:19:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p><a href="https://www.mixcloud.com/stephanbreuer32/datei-ausw%C3%A4hlen-best-deep-vocal-house-mix-06-2017-by-stevie-b/" title="Hit it to enjoy">one of my favorites for being creative</a></p>,<p>this is my kind of flow</p>]]></description>
+            <link>http://opusicon.com/one-of-my-favorites-for-being-creative/index.html</link>
+            <guid isPermaLink="false">5009740a-5935-47a6-a0b4-5d061686a1f5</guid>
+            <pubDate>Wed, 05 Jul 2017 18:40:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
