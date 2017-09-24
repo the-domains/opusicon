@@ -116,7 +116,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - name: who we are
+  - name: WHO we are and WHY we care
     id: 0a1fc343-7a16-4ab1-9e8c-f7bd02c73afb
     type: content
   - name: what we do
