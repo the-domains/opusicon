@@ -1,5 +1,6 @@
-layout_spectrum: 0.045440686877798474
 typography_spectrum: 0.4505476709505967
+content_rating:
+  adult: false
 color:
   lightness: 0.9380125400736596
   brandColors:
@@ -11,16 +12,30 @@ color:
   saturation: 0.1677078891825853
   brandStrength: 0.4365451392207737
   rhythmicContrast: 0.3171928898647132
-name: Opus Icon Advisory Group
+github: true
+opengraph: {}
+layout_spectrum: 0.045440686877798474
 analytics: {}
-purpose:
-  - type: email
-    url: 'mailto:hello@opusicon.com'
-    label: click to see how we can bring order to chaos
-description: focus is what's revealed when the unimportant is hidden
 author:
   name: Shaun Nelson
   email: shaun@opusicon.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeb8d994-155f-4092-a010-b4298a472ac3.png
+name: Opus Icon Advisory Group
+url: 'http://opusicon.com'
+navigation:
+  - name: WHO we are and WHY we care
+    id: 0a1fc343-7a16-4ab1-9e8c-f7bd02c73afb
+    type: content
+  - name: WHAT we do
+    id: b3bb63b8-9e2c-4f75-abf0-cf57612cc240
+    type: content
+  - name: HOW we do it
+    id: fd9aa9c3-4fc5-43b2-8434-cd56052ae317
+    type: content
+  - name: WHEN we'd like to do it again
+    id: 5009740a-5935-47a6-a0b4-5d061686a1f5
+    type: content
 collections:
   - index:
       path: /
@@ -33,6 +48,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: the art of the deal
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -43,16 +59,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: Video Motion Rolodex
-          url: 'https://www.youtube.com/channel/UCAdoSZai0e6aFq0IOr6Fx_w'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
-        domain: www.youtube.com
+      datePublished: null
+      isBasedOnUrl: 'http://www.youtube.com/watch?v=2bUj-RtbqyI'
       keywords:
         - landing page monkey
         - background videos
@@ -63,13 +71,13 @@ content:
         - free video backgrounds
         - motion video backgrounds hd
         - video lo...
-      description: >-
-        Video Motion Rolodex Beach Coast for Landing Page Monkey "Need a quick
-        video background for your next Landing Page Monkey Page?" Okay we've
-        found cool motion backgrounds you can use in any of your projects and
-        put them together in a handy Rolodex The videos listed are all found on
-        YouTube (you'll find potentially thousands more if you search 'video
-        loop', 'motion background' etc.
+      related: []
+      author:
+        - name: Video Motion Rolodex
+          url: 'https://www.youtube.com/channel/UCAdoSZai0e6aFq0IOr6Fx_w'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Video Motion Rolodex Beach Coast for Landing Page Monkey
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=2bUj-RtbqyI&feature=applinks'
@@ -108,28 +116,23 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'http://www.youtube.com/watch?v=2bUj-RtbqyI'
-      title: Video Motion Rolodex Beach Coast for Landing Page Monkey
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: www.youtube.com
+      description: >-
+        Video Motion Rolodex Beach Coast for Landing Page Monkey "Need a quick
+        video background for your next Landing Page Monkey Page?" Okay we've
+        found cool motion backgrounds you can use in any of your projects and
+        put them together in a handy Rolodex The videos listed are all found on
+        YouTube (you'll find potentially thousands more if you search 'video
+        loop', 'motion background' etc.
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-navigation:
-  - name: WHO we are and WHY we care
-    id: 0a1fc343-7a16-4ab1-9e8c-f7bd02c73afb
-    type: content
-  - name: WHAT we do
-    id: b3bb63b8-9e2c-4f75-abf0-cf57612cc240
-    type: content
-  - name: HOW we do it
-    id: fd9aa9c3-4fc5-43b2-8434-cd56052ae317
-    type: content
-content_rating:
-  adult: false
-opengraph: {}
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeb8d994-155f-4092-a010-b4298a472ac3.png
-title: the art of the deal
-url: 'http://opusicon.com'
-github: true
+description: focus is what's revealed when the unimportant is hidden
+purpose:
+  - type: email
+    url: 'mailto:hello@opusicon.com'
+    label: click to see how we can bring order to chaos
