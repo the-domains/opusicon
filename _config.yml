@@ -33,31 +33,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2d36935-6c23-4789-8036-7ea1ccbebfe3.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2d36935-6c23-4789-8036-7ea1ccbebfe3.jpg
-    metadata:
-      author: []
-      datePublished: null
-      keywords: []
-      '@type': MediaObject
-      publisher:
-        favicon: null
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 navigation:
   - name: who we are
     id: 0a1fc343-7a16-4ab1-9e8c-f7bd02c73afb
