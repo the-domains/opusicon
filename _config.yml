@@ -1,16 +1,16 @@
-layout_spectrum: 0.7014594437964813
-typography_spectrum: 0.7971140712283847
+layout_spectrum: 0.7858492539349096
+typography_spectrum: 0.8890892647605131
 color:
-  lightness: 0.8067817084883147
+  lightness: 0.15250916495587272
   brandColors:
-    - '#332532'
-    - '#644D52'
-    - '#F77A52'
-    - '#FF974F'
-    - '#A49A87'
-  saturation: 0.9096519569898633
-  brandStrength: 0.1525897250616794
-  rhythmicContrast: 0.5721529351729936
+    - '#543463'
+    - '#62540B'
+    - '#C74716'
+    - '#FFFFD3'
+    - '#D29B70'
+  saturation: 0.16615873715222473
+  brandStrength: 0.04899064726435976
+  rhythmicContrast: 0.13032172243037068
 name: Opus Icon | an advisory group |
 analytics: {}
 purpose:
