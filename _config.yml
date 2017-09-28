@@ -19,7 +19,8 @@ analytics: {}
 author:
   name: Shaun Nelson
   email: shaun@opusicon.com
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7edfcd92-a09f-4919-bb4e-47524a653fd0.png
 name: opus icon - a design company for deals © 2017
 url: 'http://opusicon.com'
 navigation:
