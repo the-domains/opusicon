@@ -21,7 +21,7 @@ author:
   email: shaun@opusicon.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ce46481-1a44-4b39-a015-3f39e2ee7760.png
-name: opus icon advisory group © 2017
+name: opus icon - a design company for deals © 2017
 url: 'http://opusicon.com'
 navigation:
   - name: WHO we are and WHY we care
@@ -97,3 +97,5 @@ purpose:
   - type: email
     url: 'mailto:hello@opusicon.com'
     label: creating flow from chaos
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a001cbab-e361-4f38-a5e1-726fa4dc27b2.png
