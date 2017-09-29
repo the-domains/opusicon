@@ -21,7 +21,7 @@ author:
   email: shaun@opusicon.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64cb7981-af3d-4c64-84c4-00678c6086d8.png
-name: opus icon - a design company for deals © 2017
+name: 'opus icon, a collaborative group - making deals faster © 2017'
 url: 'http://opusicon.com'
 navigation:
   - name: WHO we are and WHY we care
@@ -48,7 +48,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: opus icon
+title: opus ikon
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
