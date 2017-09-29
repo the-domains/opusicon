@@ -21,7 +21,7 @@ author:
   email: shaun@opusicon.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64cb7981-af3d-4c64-84c4-00678c6086d8.png
-name: 'opus icon, a collaborative group - making deals faster © 2017'
+name: 'opus ikon, a collaborative group - making deals faster © 2017'
 url: 'http://opusicon.com'
 navigation:
   - name: WHO we are and WHY we care
@@ -96,6 +96,6 @@ description: the art of the deal
 purpose:
   - type: email
     url: 'mailto:hello@opusicon.com'
-    label: transform your chaos into flow
+    label: flow from chaos
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/66e927aa-0f0f-4076-a1a3-823e77da8abd.png
