@@ -92,7 +92,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: the Art of the deal
+description: the Art of the Deal
 purpose:
   - type: email
     url: 'mailto:hello@opusicon.com'
