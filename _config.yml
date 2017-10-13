@@ -18,7 +18,7 @@ layout_spectrum: 0.045440686877798474
 analytics: {}
 author:
   name: Shaun Nelson
-  email: shaun@opusicon.com
+  email: shaun@opusikon.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64cb7981-af3d-4c64-84c4-00678c6086d8.png
 name: 'opus ikon, a collaborative group - making deals faster © 2017'
@@ -83,7 +83,6 @@ content:
         xxx. It will make you relax and feel calm and it is the perfect
         background when you are not using the PC or even when you are studying
         and want to concentrate.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links: []
       '@context': 'http://schema.org'
