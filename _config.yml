@@ -48,7 +48,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: opus ikon group
+title: opus ikon design
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
