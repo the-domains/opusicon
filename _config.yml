@@ -24,7 +24,7 @@ logo: >-
 name: 'opus ikon, a collaborative group - making deals faster © 2017'
 url: 'http://opusicon.com'
 navigation:
-  - name: WHO we are and WHY we care
+  - name: WHO we are
     id: 0a1fc343-7a16-4ab1-9e8c-f7bd02c73afb
     type: content
   - name: WHAT we do
