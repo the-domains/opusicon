@@ -1,20 +1,20 @@
-typography_spectrum: 0.4505476709505967
-content_rating:
-  adult: false
+layout_spectrum: 0.04817625151974804
+typography_spectrum: 0.17246942565213927
 color:
-  lightness: 0.9380125400736596
+  lightness: 0.9355282119348055
   brandColors:
     - '#543463'
     - '#62540B'
     - '#C74716'
     - '#FFFFD3'
     - '#D29B70'
-  saturation: 0.1677078891825853
-  brandStrength: 0.4365451392207737
-  rhythmicContrast: 0.3171928898647132
+  saturation: 0.794687751392087
+  brandStrength: 0.49015355456887866
+  rhythmicContrast: 0.3135259572991935
+content_rating:
+  adult: false
 github: true
 opengraph: {}
-layout_spectrum: 0.045440686877798474
 analytics: {}
 author:
   name: Shaun Nelson
