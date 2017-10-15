@@ -24,7 +24,7 @@ logo: >-
 name: 'opus ikon, a collaborative group - making deals faster © 2017'
 url: 'http://opusicon.com'
 navigation:
-  - name: WHO we are
+  - name: WHY we do it
     id: 0a1fc343-7a16-4ab1-9e8c-f7bd02c73afb
     type: content
   - name: WHAT we do
@@ -36,6 +36,8 @@ navigation:
   - name: WHEN we'd like to do it again
     id: 5009740a-5935-47a6-a0b4-5d061686a1f5
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/66e927aa-0f0f-4076-a1a3-823e77da8abd.png
 collections:
   - index:
       path: /
@@ -59,16 +61,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: Josu Relax
-          url: 'https://www.youtube.com/channel/UC3Lnn-nMtHueWyesrDBfZ8g'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
-        domain: www.youtube.com
+      datePublished: null
+      isBasedOnUrl: 'http://www.youtube.com/watch?v=BgpUVde196k'
       keywords:
         - video
         - sharing
@@ -76,6 +70,20 @@ content:
         - video phone
         - free
         - upload
+      related: []
+      author:
+        - name: Josu Relax
+          url: 'https://www.youtube.com/channel/UC3Lnn-nMtHueWyesrDBfZ8g'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Blue Water Texture Particles Moving | 4K Relaxing Screensaver
+      '@type': VideoObject
+      app_links: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: www.youtube.com
       description: >-
         Website: http://www.relaxing-videos.ga This 2160p video of xxx with no
         audio will allow you transform your computer, tablet or smartphone
@@ -83,12 +91,6 @@ content:
         xxx. It will make you relax and feel calm and it is the perfect
         background when you are not using the PC or even when you are studying
         and want to concentrate.
-      '@type': VideoObject
-      app_links: []
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'http://www.youtube.com/watch?v=BgpUVde196k'
-      title: Blue Water Texture Particles Moving | 4K Relaxing Screensaver
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -97,5 +99,3 @@ purpose:
   - type: email
     url: 'mailto:hello@opusicon.com'
     label: clarity in chaos
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/66e927aa-0f0f-4076-a1a3-823e77da8abd.png
