@@ -3,8 +3,8 @@ description: >-
   Ravens are said to have the intelligence of chimpanzees and are often
   underestimated, especially for the value of their work.
 author: []
-datePublished: '2017-10-18T22:10:10.776Z'
-dateModified: '2017-10-18T22:10:07.524Z'
+datePublished: '2017-10-18T22:19:13.933Z'
+dateModified: '2017-10-18T22:19:13.207Z'
 title: About the logo
 publisher: {}
 via: {}
