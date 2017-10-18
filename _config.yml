@@ -50,7 +50,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: opus ikon design
+title: Φpus ikΦn design
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -96,7 +96,6 @@ content:
         instagram.com/mikeolbinski ------- On June 12th, I broke down into
         tears. Minutes earlier, I had been outside my truck, leaning against it,
         head buried in my arms, frustration and failure washing over me.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=oagszCmJLpU&feature=applinks'
