@@ -51,7 +51,98 @@ collections:
       format: rss
       number: 10
 title: opus ikon design
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="http://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FF5fgvvoHXBA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DF5fgvvoHXBA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FF5fgvvoHXBA%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Jared Cook
+          url: 'https://www.youtube.com/user/TheJaredCook'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: www.youtube.com
+      keywords:
+        - 4k
+        - 4kultrahd
+        - ultrahd
+        - high definition
+        - timelapse
+        - time lapse
+        - kessler crane
+        - cineslider
+        - dslr
+        - raw
+        - travel
+        - world
+        - exciting
+        - adventure
+        - classical
+        - architec...
+      description: >-
+        To view this video in 4K (Ultra HD) select "Original" in the resolution
+        menu. Music By Rameses B Song: "Memoirs (Cinematic)" You can check out
+        his music here: http://www.youtube.com/ramesesb
+        http://soundcloud.com/ramesesb Video created by Jared Cook --
+        JaredRCook.com Questions or business inquires: JaredRCook@gmail.com This
+        video was photographed with RAW still images that were touched up in
+        Adobe Lightroom 4 and and edited in Adobe Premiere CS6 at 4K (4096x2304)
+        resolution, four times greater than regular 1080p HD.
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=F5fgvvoHXBA&feature=applinks'
+          namespace: ai
+          type: ios
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=F5fgvvoHXBA&feature=applinks'
+          namespace: ai
+          type: android
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=F5fgvvoHXBA&feature=applinks'
+          namespace: ai
+          type: web
+        - url: 'vnd.youtube://www.youtube.com/watch?v=F5fgvvoHXBA&feature=applinks'
+          type: ipad
+          namespace: twitter
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=F5fgvvoHXBA&feature=applinks'
+          type: iphone
+          namespace: twitter
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=F5fgvvoHXBA'
+          type: googleplay
+          namespace: twitter
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=F5fgvvoHXBA
+          type: android
+          namespace: google
+          package: com.google.android.youtube
+        - path: vnd.youtube/www.youtube.com/watch?v=F5fgvvoHXBA
+          type: ios
+          namespace: google
+          package: '544007664'
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'http://www.youtube.com/watch?v=F5fgvvoHXBA'
+      title: Timelapse Around the World in 4K (ULTRA HD)
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: the Art of Visualization
 purpose:
   - type: email
