@@ -51,7 +51,97 @@ collections:
       format: rss
       number: 10
 title: opus ikon design
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="http://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FoagszCmJLpU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoagszCmJLpU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoagszCmJLpU%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Mike Olbinski
+          url: 'https://www.youtube.com/user/MikeOlbinski'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: www.youtube.com
+      keywords:
+        - supercells
+        - tornadoes
+        - hail
+        - rain
+        - lightning
+        - mammatus
+        - undulatus
+        - asperatus
+        - asperitis
+        - storm chasing
+        - time-lapse
+        - 4k
+        - 8k
+        - kansas
+        - oklahoma
+        - texas
+        - new mexi...
+      description: >-
+        Blu-Ray discs available here: mikeolbinski.com/shop/ Music by Peter
+        Nanasi, find his work here: https://peternanasi.bandcamp.com/ Follow me:
+        twitter.com/mikeolbinski / facebook.com/mikeolbinskiphotography /
+        instagram.com/mikeolbinski ------- On June 12th, I broke down into
+        tears. Minutes earlier, I had been outside my truck, leaning against it,
+        head buried in my arms, frustration and failure washing over me.
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=oagszCmJLpU&feature=applinks'
+          namespace: ai
+          type: ios
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=oagszCmJLpU&feature=applinks'
+          namespace: ai
+          type: android
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=oagszCmJLpU&feature=applinks'
+          namespace: ai
+          type: web
+        - url: 'vnd.youtube://www.youtube.com/watch?v=oagszCmJLpU&feature=applinks'
+          type: ipad
+          namespace: twitter
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=oagszCmJLpU&feature=applinks'
+          type: iphone
+          namespace: twitter
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=oagszCmJLpU'
+          type: googleplay
+          namespace: twitter
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=oagszCmJLpU
+          type: android
+          namespace: google
+          package: com.google.android.youtube
+        - path: vnd.youtube/www.youtube.com/watch?v=oagszCmJLpU
+          type: ios
+          namespace: google
+          package: '544007664'
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'http://www.youtube.com/watch?v=oagszCmJLpU'
+      title: Pursuit - A 4K storm time-lapse film
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: the Art of Visualization
 purpose:
   - type: email
